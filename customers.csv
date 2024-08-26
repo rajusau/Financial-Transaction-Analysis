@@ -1,0 +1,101 @@
+customer_id,name,date_of_birth,address,contact_info,customer_since
+1,Stacy Wolf,1982-07-08,"PSC 6524, Box 0591, APO AE 93975",(846)604-1937x823,2006-10-10
+2,Mr. David Stewart,1960-03-03,"PSC 6453, Box 7015, APO AA 93928",+1-613-344-8564x35658,2021-10-25
+3,Sarah Foster,1966-07-11,"16622 Solomon Parkway Suite 899, North Christine, WV 46761",340.843.3916x5002,2017-04-10
+4,Roberto Combs,1998-05-14,"83353 Harris Isle, Rosarioland, PW 89604",881.924.5577x122,2011-12-24
+5,Justin Stevens,1941-12-23,"95729 Patrick View, Maryhaven, DC 76734",001-901-919-1617,2007-09-16
+6,Wesley Malone,1992-11-24,"758 Aaron Vista, Lake Beverly, PA 89687",798-829-2424x6722,2009-11-18
+7,Katrina Fisher,2005-10-02,"6373 Megan Street, East Eric, RI 78101",+1-373-359-6402x8324,2011-09-27
+8,Chad Vance,2002-11-28,"49417 Logan Prairie Suite 758, Lake Mark, PR 85338",(509)637-0755,2009-07-14
+9,Isaac Martin,1962-06-18,"6709 Lowe Summit, Taylormouth, DC 34417",421.729.2210x220,2020-11-27
+10,Christine Cooper,1941-05-06,"81386 Nathaniel Crest, West Alex, CA 26238",+1-509-450-9935x433,2010-10-05
+11,Amanda Valdez,1942-06-27,"72914 Jennifer Manor Apt. 887, East Melanie, ID 75937",934-773-0154x7330,2005-01-16
+12,Angel Watson,1988-01-03,"Unit 9830 Box 1431, DPO AA 84665",5619358879,2015-08-08
+13,Matthew Harper,1952-07-26,"57087 Nicholas Shores Suite 272, Beckbury, SD 49712",266-604-5266x3180,2006-09-02
+14,Michael Nguyen,1960-11-06,"86610 John Overpass, East Madison, VI 63593",3963988187,2005-02-05
+15,Caroline Boyd,1975-03-21,"2767 Friedman Crossroad, Jamesfurt, MP 92234",+1-629-593-3866x8883,2020-12-31
+16,Anthony Fletcher,1946-06-04,"98419 Perez Light, East Lawrenceside, PR 93776",001-817-779-5719x1550,2013-09-21
+17,Kenneth Newman,1986-03-22,"592 Katherine Extensions Suite 275, East Danielmouth, GA 17515",5419274175,2017-05-26
+18,Laurie Gonzalez,2004-10-30,"7519 Joseph Knolls Apt. 165, West Linda, NY 74595",001-490-252-3896x8991,2006-06-27
+19,Heather Black,1999-05-08,"1039 Leah Village, Lake Keith, VA 95872",(835)629-6079,2006-09-08
+20,Christina Allen,2006-04-13,"6484 Baker Expressway Apt. 582, Codyberg, FM 09451",+1-982-865-7279x9361,2023-04-06
+21,Darren King,1938-03-04,"4431 Carter Spur Suite 438, West David, TX 32194",+1-505-333-2310x64292,2004-09-29
+22,Elaine Chambers,1949-01-16,"824 Micheal Dale, West Brenda, MH 91226",552-663-5510,2021-10-09
+23,Jill Davies,1997-12-29,"88346 Todd Run Apt. 997, Austinshire, KS 39544",(514)361-6387x872,2016-05-31
+24,Andrea Salazar,1993-03-25,"00157 Evans Locks Suite 012, East Curtis, AZ 08551",591.414.1820,2008-05-22
+25,Allison Wheeler,1973-09-30,"772 Williams Place, Lewiston, FM 25016",212-547-0641,2006-11-11
+26,Sandra Hernandez,2005-03-12,"097 Graham Parkway, West John, LA 35359",240-630-9945x3983,2014-02-16
+27,Robert Casey,1960-09-20,"562 Banks Court Suite 100, Andersonfurt, MS 57004",+1-258-278-8379x4952,2009-06-21
+28,Gabriel Melton,1993-05-25,"64335 Melanie Loaf Apt. 975, Lake Nicole, ID 44758",(771)561-6744x82901,2020-02-28
+29,Megan Contreras,1950-04-19,"7315 Russell Drives, East Joseph, GA 62517",(689)476-4850,2013-12-28
+30,Richard Lawson,1933-11-26,"682 Carr Crossroad, Lake Anthony, GA 45940",(510)269-1858x0079,2024-08-09
+31,Jennifer Smith,1935-10-15,"97721 Baker Cape Suite 548, Prestonborough, PA 85582",+1-458-711-8621x67158,2006-01-07
+32,John Keller,1981-07-05,"9089 Mitchell Grove, East Stephanie, MH 21981",(685)779-4658,2024-05-14
+33,Michelle Butler,1988-07-05,"9041 Beverly Prairie, Jenniferview, PA 96185",926.922.9591,2011-09-30
+34,Kevin Cross,1948-03-04,"475 Catherine Mountain, Lake Jenniferstad, RI 95576",4343475324,2014-06-12
+35,Richard Thompson,1971-10-27,"47652 Ruiz Curve, West Dawnhaven, MI 23130",432.577.1192,2009-06-28
+36,Patricia Martin,1973-12-29,"09604 Richard Parkways Suite 522, East Michellebury, AK 82274",(493)256-6899,2014-02-20
+37,Diane Spence,1942-09-03,"PSC 7109, Box 2899, APO AE 39946",623-207-7889x02569,2007-10-30
+38,Joseph Foster,1991-07-09,"052 Thompson Inlet Apt. 469, Port Joseph, WI 49023",962-951-4623x3580,2007-02-11
+39,Kevin Edwards,1961-11-02,"9082 Taylor Highway Apt. 450, South Reginaldbury, PR 31027",4837669982,2005-05-17
+40,Scott Oneill,2002-04-11,"55524 Nicole Falls, Elizabethhaven, NC 64438",001-563-490-4758x50019,2008-11-13
+41,Mark Taylor,1957-04-28,"8118 Kimberly Ferry Suite 931, East Jenniferburgh, OK 50316",(592)532-0941,2014-11-14
+42,Tonya Frederick,1958-12-19,"103 Craig Terrace, Virginiabury, MI 52440",721-838-0327x7480,2009-05-29
+43,Donna Miller,1946-06-08,"632 Williams Divide Suite 573, Monicahaven, MN 06538",6884682323,2016-07-26
+44,Lori Maddox,1971-08-12,"0958 Christopher Ranch Apt. 378, Brownville, MN 22430",320-414-9155x8775,2009-08-26
+45,Michael Ryan,1970-03-05,"57630 Snyder Dam, West Brianna, AK 79208",001-392-543-5181x9605,2021-12-16
+46,Dr. Antonio Sawyer DDS,1937-08-28,"0373 Rebecca Vista, Brianborough, CA 70200",(832)405-4081,2005-02-23
+47,Nicholas Allison,1948-04-03,"5209 Michael Skyway, Thomasside, MA 00850",348-909-9668x454,2007-11-14
+48,Donna Allen,1975-05-04,"021 Michelle Hill Suite 449, Port Williamchester, NM 16980",624-494-8618,2008-07-02
+49,Mark Lane,1946-05-10,"935 Alvarado Wells, Lake Arthurton, GA 18631",204.341.2249,2011-03-04
+50,Jennifer Williamson,1956-01-19,"124 Taylor Points, East Derrickchester, SC 45560",001-591-592-8429x823,2005-01-30
+51,Sara Cross,1963-04-29,"916 Gregory Land Apt. 428, North Jodymouth, SC 57023",3589307385,2020-06-15
+52,Jeffery Johnson,1976-07-20,"466 Todd Common Apt. 066, North Michael, NY 43835",+1-761-403-6911x2917,2017-10-19
+53,Tiffany Clark,1956-04-03,"27361 Travis Glen, East Markside, NV 90498",722.535.4812x5294,2004-09-22
+54,Donald Martin,1979-10-01,"75371 Bruce Vista, Palmerside, PW 62565",001-414-592-5670x940,2016-09-13
+55,Troy Thomas,1951-06-24,"32951 Gutierrez Tunnel Suite 722, Reedberg, AL 95898",534-563-4429,2005-03-24
+56,Brian Hayes,1937-04-07,"14497 Fernando Crest, Downsstad, LA 91327",+1-843-570-9129x895,2021-10-11
+57,David Cruz,1967-06-28,"430 Haley Valley, Burnsside, CT 90291",(943)559-2559x717,2018-09-04
+58,Mackenzie Phillips,1971-03-01,"577 Robinson Mountain Suite 824, Hannahmouth, UT 59551",001-849-303-4118x1195,2013-04-19
+59,Brenda Sanchez,1934-11-13,"4601 Jason Isle Suite 223, Ellisbury, TX 87961",(599)212-0858x89613,2015-09-21
+60,Joshua Mejia,1960-03-09,"Unit 3814 Box 4508, DPO AA 28566",303.465.9073x695,2015-10-21
+61,Yvonne Guerrero,1936-01-20,"640 Bray Plains Suite 924, South Andrewmouth, MA 02221",001-854-444-6935,2013-06-25
+62,Christina Berry,1958-10-02,"129 Kenneth Land Apt. 251, Valentinechester, DC 28230",6335796540,2019-08-11
+63,Victoria Stein,1960-09-05,"4539 Kari Forge Apt. 411, New Benjamin, DE 88196",(722)535-7094x084,2008-09-10
+64,Jeffrey Page,1936-07-04,"099 Brian Drives Suite 256, Sarahborough, VI 52013",464-305-8904,2008-05-06
+65,Austin Mcmahon,1981-12-18,"877 Marshall Square Suite 347, West Nathan, TN 31486",001-969-477-9803x908,2009-04-28
+66,Kevin Knox,1973-10-05,"3416 Farley Neck Suite 722, New Dustin, MO 33920",(993)683-1843x5701,2008-11-23
+67,Jason Campbell,1968-02-26,"7327 Diamond Avenue Apt. 454, North Leslieville, VA 88003",+1-944-743-1192x9112,2011-07-31
+68,Lori Sweeney,1958-09-26,"USS Wade, FPO AA 03369",3543166959,2006-07-28
+69,Ricky Floyd,1961-04-01,"2073 Baker Motorway Suite 165, Port Courtneyfurt, VA 09480",897-850-3819x637,2007-09-15
+70,Victor Singh,1955-04-18,"264 Lisa Fields Apt. 513, Barrerafort, PW 57265",2472313987,2015-05-03
+71,Paul Martinez,1993-03-23,"23359 Sandra View Suite 002, Port Phillipborough, SC 70250",911-372-8246,2023-08-04
+72,Laura Weber,1943-11-07,"6904 Samantha Valleys, Grahamside, UT 15633",637-349-1702,2014-11-01
+73,Kyle Anderson,1954-01-14,"99492 Stevenson Junctions Apt. 848, New John, HI 00984",638.280.9079,2005-02-26
+74,Todd Brown,1993-06-01,"903 Amanda Point, Jennytown, AZ 44691",326-298-5577x135,2007-05-30
+75,Christina Gregory,1961-03-05,"12342 Shane Landing, Thompsonhaven, DC 28040",(762)405-9949,2012-05-09
+76,Catherine Park,1992-02-05,"624 Collier Stravenue Suite 519, Annafort, NY 13950",+1-678-584-6675x7679,2011-05-28
+77,Bonnie Hogan,1954-07-21,"23683 Lawrence Courts Apt. 933, West Kevin, NV 11236",(995)828-7527x65631,2007-07-14
+78,Thomas Schultz,1948-07-27,"472 Katelyn Lane, Perezfort, KY 85585",802-378-0534,2007-10-22
+79,Michael Zhang,1950-04-05,"3184 Ferguson Mountain Suite 444, South Vincentbury, PR 34620",676-341-2242,2005-04-07
+80,David Parker,1961-04-23,"24963 Gamble Shore Apt. 734, New Tonystad, FL 44437",508.387.6633x828,2015-09-28
+81,Thomas Curry,1961-05-08,"243 Olsen Coves, North Collin, AZ 14968",690.746.6062x364,2009-04-16
+82,Mark Lopez,1969-01-02,"18794 Bird Viaduct, East Sean, CO 51668",279-753-1256,2006-01-06
+83,William Schmitt,2002-04-15,"379 Bradley Court, Lake Ernestfort, MD 36413",+1-229-615-0044x276,2009-12-26
+84,Matthew Brown,1941-02-14,"8731 Charles Knolls, East Colin, AR 25603",724-685-5450,2021-08-06
+85,Heidi Hicks,1977-09-30,"2622 Burton Locks, Carterchester, RI 12556",+1-895-782-9899x847,2006-03-08
+86,Meghan Farley,2000-11-28,"5253 Lowe Club, Thorntonview, NV 91018",355.563.1004x26230,2005-06-03
+87,Daryl Tanner,1995-07-23,"USCGC Gutierrez, FPO AE 48835",570.344.7977,2012-07-16
+88,Angela Parker,2003-09-20,"748 Hines Views Apt. 526, Timothyville, MP 02387",(370)515-1841x163,2005-04-25
+89,Richard Daniel,1966-04-05,"961 Ramos Radial, Coxstad, KS 41538",+1-395-690-7202x585,2014-06-30
+90,Michael Garcia,1958-03-23,"5410 Crawford Forges, Hollyville, VI 85240",001-457-557-0182,2005-09-15
+91,Cameron White,1965-11-21,"48905 Carrillo Hills, Rebeccabury, NE 11497",(290)761-5097,2006-12-30
+92,Lisa Clark PhD,1945-07-28,"7026 Melissa Harbors, New Jonhaven, OR 96413",+1-725-280-2595x67138,2016-09-14
+93,Michael Kaiser,1979-01-08,"2449 Campbell Squares Suite 951, North Jackberg, LA 71407",257-999-7787,2020-12-23
+94,Tonya Collins,1945-08-13,"52899 Jones Throughway, Welchborough, NH 99898",(265)785-3169x83369,2004-08-24
+95,George Torres,1960-02-07,"108 Jessica Glens Suite 009, Galvanshire, ME 42195",277.956.1840x441,2023-09-11
+96,Bryan Francis,1969-12-12,"Unit 8130 Box 6710, DPO AA 85468",(519)472-5827x7119,2012-06-18
+97,Michelle Moody,2002-12-05,"322 Peterson Harbors Apt. 568, Rowechester, NM 36859",(647)797-6267,2005-05-12
+98,Alicia Brown,1970-12-28,"729 Lisa Drives Apt. 772, Lake Michael, WY 31380",4815691393,2011-03-18
+99,Deanna Johnson,1997-07-26,"4289 Wade Parkway Apt. 620, Brianport, AL 46322",732-752-9323,2015-03-04
+100,Sonya Neal,1938-06-26,"PSC 7598, Box 9984, APO AA 30212",+1-819-699-1710x8838,2009-10-31
