@@ -176,3 +176,80 @@ JOIN customers c ON a.customer_id = c.customer_id
 LEFT JOIN transactions t ON a.account_id = t.account_id
 GROUP BY a.account_id, c.customer_id, c.name, a.balance
 HAVING last_transaction_date < DATE_SUB(CURDATE(), INTERVAL 1 YEAR) OR last_transaction_date IS NULL;
+
+
+
+-- Most Valuable Customer Of the Company
+
+WITH TopTransactions AS (
+    SELECT 
+        c.customer_id,
+        c.name,
+        COUNT(t.transaction_id) AS total_transactions
+    FROM 
+        customers c
+    JOIN 
+        accounts a ON c.customer_id = a.customer_id
+    JOIN 
+        transactions t ON a.account_id = t.account_id
+    GROUP BY 
+        c.customer_id, c.name
+    ORDER BY 
+        total_transactions DESC
+    LIMIT 1
+),
+TopSpending AS (
+    SELECT 
+        c.customer_id,
+        c.name,
+        SUM(t.amount) AS total_spent
+    FROM 
+        customers c
+    JOIN 
+        accounts a ON c.customer_id = a.customer_id
+    JOIN 
+        transactions t ON a.account_id = t.account_id
+    GROUP BY 
+        c.customer_id, c.name
+    ORDER BY 
+        total_spent DESC
+    LIMIT 1
+),
+TopTenure AS (
+    SELECT 
+        c.customer_id,
+        c.name,
+        MIN(c.customer_since) AS customer_since
+    FROM 
+        customers c
+    GROUP BY 
+        c.customer_id, c.name
+    ORDER BY 
+        customer_since
+    LIMIT 1
+)
+
+-- Combine results from all metrics
+SELECT 
+    'Most Transactions' AS Metric,
+    t.customer_id,
+    t.name,
+    t.total_transactions AS Value
+FROM 
+    TopTransactions t
+UNION ALL
+SELECT 
+    'Highest Spending' AS Metric,
+    s.customer_id,
+    s.name,
+    s.total_spent AS Value
+FROM 
+    TopSpending s
+UNION ALL
+SELECT 
+    'Longest Tenure' AS Metric,
+    te.customer_id,
+    te.name,
+    te.customer_since AS Value
+FROM 
+    TopTenure te;
