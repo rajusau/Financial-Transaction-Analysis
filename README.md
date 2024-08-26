@@ -107,4 +107,4 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## Contact
 
-For any questions or feedback, please contact [Raju Sau](linkedin.com/in/rajusau).
+For any questions or feedback, please contact [Raju Sau](https://www.linkedin.com/in/rajusau/).
